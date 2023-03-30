@@ -1,0 +1,31 @@
+[
+	{
+		"inputs": [
+			{
+				"internalType": "string",
+				"name": "_mood",
+				"type": "string"
+			}
+		],
+		"name": "setMood",
+		"outputs": [],
+		"stateMutability": "nonpayable",
+		"type": "function"
+	},
+	{
+		"inputs": [],
+		"name": "getMood",
+		"outputs": [
+			{
+				"internalType": "string",
+				"name": "",
+				"type": "string"
+			}
+		],
+		"stateMutability": "view",
+		"type": "function"
+	}
+]
+
+
+0x6EfD4d29B469fA0c7ba01b2F2703BE482e10854e - ca
